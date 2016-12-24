@@ -1,10 +1,11 @@
 package com.example.niuxiaowei.dagger2sample.view;
 
 import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 import com.example.niuxiaowei.dagger2sample.R;
+
 import com.example.niuxiaowei.dagger2sample.di.components.DaggerMainComponent;
 import com.example.niuxiaowei.dagger2sample.di.components.MainComponent;
 import com.example.niuxiaowei.dagger2sample.di.modules.ActivityModule;
